@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+    width: 98%;
+    margin: 9px 0;
+}
+
+.header {
+    height: 80px;
+    background-color: #585655;
+    border-radius: 18px;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.phone-top {
+    height: 70px;
+    margin-left: 14px;
+   
+}
+
+.mumber-top {
+    color: #D7CCC8;
+    margin: -13px 0 0 -29px;
+}
+
+.top-left {
+    display: flex;
+    justify-content: space-between; 
+    width: 40%; 
+    margin-right: 19px;
+    position: absolute;
+    right: 0; 
+}
+
+.top-left img {
+    height: 50px; 
+    width: auto;
+}
