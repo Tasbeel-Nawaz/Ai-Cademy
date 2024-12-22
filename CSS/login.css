@@ -1,0 +1,164 @@
+body {
+   margin:0px;
+   height: 100vh; 
+   display: flex; 
+   justify-content: center; 
+   align-items: center; 
+   
+}
+.signup {
+ font-size: 80px;
+   background-color: gray;
+   width: 300px; 
+   height: 420px;
+   display: flex;
+   justify-content: center;
+   padding: 20px;
+  position: relative;
+  border: 1px solid gray;
+   
+}
+.sign{
+  font-size: 70px;
+margin-top: -10px;
+font-family: Algerian, serif;
+  
+}
+.white-box{
+   position:absolute;
+  background: white;
+  width: 100%;
+  height: 299px;
+  margin-top: 75px;
+  border-radius: 60px;
+}
+.Account{
+   font-size: 18px;
+  text-align: center;
+  font-family: Times New Roman;
+  color:gray;
+  position: relative;
+}
+.name {
+   position: absolute;
+   text-align: left;  
+   width: 80%;
+   margin-left: 14px;
+   color: black;
+   font-size: 12px;
+   margin-top: -10px;
+   border-radius: 5px;
+   padding-left: 29px; 
+}
+.login {
+  height: 12px;
+  margin-top: -7px;
+  position: absolute;
+  justify-content:center;
+  display:flex;
+  margin-left: 22px;
+}
+.email{
+   position: absolute;
+   text-align: left;  
+   width: 80%;
+   margin-left: 14px;
+   color: black;
+   font-size: 12px;
+   margin-top: 17px;
+   border-radius: 5px;
+   padding-left: 29px; 
+}
+.gmail{
+   height: 12px;
+   margin-top: 20px;
+   position: absolute;
+   justify-content:center;
+   display:flex;
+   margin-left: 22px;
+}
+.lock {
+   position: absolute;
+   text-align: left;
+   width: 80%;
+   margin-left: 14px;
+   color: black;
+   font-size: 12px;
+   margin-top: 44px;
+   border-radius: 5px;
+   padding-left: 29px;
+   
+}
+.password {
+   height: 12px;
+   margin-top: 47px;
+   position: absolute;
+   justify-content: center;
+   display: flex;
+   margin-left: 22px;
+   
+}
+.hide {
+   height: 12px;
+   margin-top: 47px;
+   display: flex;
+   right: 27px; 
+   position: absolute; 
+}
+   .btn{
+      height: 40px;
+     width: 150px;
+     margin-top: 74px;
+     position: absolute;
+    justify-content: center;
+     display: flex;
+      margin-left: 95px;
+      background:gray;
+      border-radius: 10px;
+  }
+.text-btn{
+   margin-top: 4px;
+   text-align:center;
+   font-family: Algerian, serif;
+   font-size: 20px;
+}
+.up{
+   font-size: 18px;
+   text-align: center;
+   margin-top: 144px;
+}
+
+.go{
+   height: 55px;
+   width: 100px;
+    margin-top: 4px;
+   margin-left: 30px;
+   font-family: Algerian, serif;
+   font-size: 16px;
+   display: flex;
+   justify-content: center;
+   background:gray;
+   border-radius: 10px;
+}
+
+.google-pic{
+   height: 42px;
+ margin-top: 5px;
+}  
+.fc{
+   height: 55px;
+   width: 100px;
+    margin-top: -59px;
+   margin-left: 200px;
+   font-family: Algerian, serif;
+   font-size: 14px;
+   display: flex;
+   justify-content: center;
+   background:gray;
+   border-radius: 10px;
+}
+
+.Facebook-pic{
+   height: 42px;
+ margin-top: 5px;   
+}
